@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\2022\workspace\DailySteps\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="1" lineNum="34" parent="globals/DailyStepsView" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="1" lineNum="35" parent="globals/DailyStepsView" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="1" lineNum="36" parent="globals/DailyStepsView" pc="268435478" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="1" lineNum="37" parent="globals/DailyStepsView" pc="268435510" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="2" lineNum="40" parent="globals/DailyStepsView" pc="268435554" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="2" lineNum="41" parent="globals/DailyStepsView" pc="268435558" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="3" lineNum="44" parent="globals/DailyStepsView" pc="268435579" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="3" lineNum="45" parent="globals/DailyStepsView" pc="268435583" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="4" lineNum="49" parent="globals/DailyStepsView" pc="268435604" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="4" lineNum="50" parent="globals/DailyStepsView" pc="268435608" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="5" lineNum="53" parent="globals/DailyStepsView" pc="268435627" symbol="onTimerStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="5" lineNum="54" parent="globals/DailyStepsView" pc="268435631" symbol="onTimerStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="6" lineNum="57" parent="globals/DailyStepsView" pc="268435650" symbol="onTimerStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="6" lineNum="58" parent="globals/DailyStepsView" pc="268435654" symbol="onTimerStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="7" lineNum="61" parent="globals/DailyStepsView" pc="268435673" symbol="onTimerResume"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="7" lineNum="62" parent="globals/DailyStepsView" pc="268435677" symbol="onTimerResume"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="8" lineNum="65" parent="globals/DailyStepsView" pc="268435696" symbol="onTimerPause"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="8" lineNum="66" parent="globals/DailyStepsView" pc="268435700" symbol="onTimerPause"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="9" lineNum="69" parent="globals/DailyStepsView" pc="268435719" symbol="onTimerLap"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="9" lineNum="70" parent="globals/DailyStepsView" pc="268435723" symbol="onTimerLap"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="10" lineNum="73" parent="globals/DailyStepsView" pc="268435742" symbol="onTimerReset"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="10" lineNum="74" parent="globals/DailyStepsView" pc="268435746" symbol="onTimerReset"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="11" lineNum="77" parent="globals/DailyStepsView" pc="268435765" symbol="onNextMultisportLeg"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="11" lineNum="78" parent="globals/DailyStepsView" pc="268435769" symbol="onNextMultisportLeg"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="12" lineNum="28" parent="globals/DailyStepsView" pc="268436908" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsView.mc" id="12" lineNum="28" parent="globals/DailyStepsView" pc="268436908" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="14" lineNum="38" parent="globals/DailyStepsApp" pc="268435788" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="14" lineNum="39" parent="globals/DailyStepsApp" pc="268435792" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="14" lineNum="40" parent="globals/DailyStepsApp" pc="268435810" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="15" lineNum="44" parent="globals/DailyStepsApp" pc="268435841" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="15" lineNum="45" parent="globals/DailyStepsApp" pc="268435845" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="16" lineNum="49" parent="globals/DailyStepsApp" pc="268435868" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="16" lineNum="50" parent="globals/DailyStepsApp" pc="268435872" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="17" lineNum="54" parent="globals/DailyStepsApp" pc="268435895" symbol="getInitialView"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="17" lineNum="55" parent="globals/DailyStepsApp" pc="268435899" symbol="getInitialView"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="18" lineNum="34" parent="globals/DailyStepsApp" pc="268436858" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\DailyStepsApp.mc" id="18" lineNum="34" parent="globals/DailyStepsApp" pc="268436858" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="20" lineNum="21" parent="globals/FitContributor" pc="268435923" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="20" lineNum="22" parent="globals/FitContributor" pc="268435927" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="20" lineNum="28" parent="globals/FitContributor" pc="268436070" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="20" lineNum="35" parent="globals/FitContributor" pc="268436213" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="20" lineNum="36" parent="globals/FitContributor" pc="268436236" symbol="initialize"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="39" parent="globals/FitContributor" pc="268436260" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="40" parent="globals/FitContributor" pc="268436264" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="43" parent="globals/FitContributor" pc="268436281" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="44" parent="globals/FitContributor" pc="268436308" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="45" parent="globals/FitContributor" pc="268436335" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="46" parent="globals/FitContributor" pc="268436362" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="47" parent="globals/FitContributor" pc="268436375" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="49" parent="globals/FitContributor" pc="268436391" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="21" lineNum="50" parent="globals/FitContributor" pc="268436404" symbol="onStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="22" lineNum="55" parent="globals/FitContributor" pc="268436424" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="22" lineNum="57" parent="globals/FitContributor" pc="268436428" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="22" lineNum="58" parent="globals/FitContributor" pc="268436456" symbol="onStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="61" parent="globals/FitContributor" pc="268436485" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="62" parent="globals/FitContributor" pc="268436489" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="64" parent="globals/FitContributor" pc="268436500" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="66" parent="globals/FitContributor" pc="268436517" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="67" parent="globals/FitContributor" pc="268436540" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="68" parent="globals/FitContributor" pc="268436553" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="69" parent="globals/FitContributor" pc="268436573" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="70" parent="globals/FitContributor" pc="268436595" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="73" parent="globals/FitContributor" pc="268436620" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="74" parent="globals/FitContributor" pc="268436651" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="78" parent="globals/FitContributor" pc="268436685" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="82" parent="globals/FitContributor" pc="268436704" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="83" parent="globals/FitContributor" pc="268436730" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="23" lineNum="86" parent="globals/FitContributor" pc="268436759" symbol="compute"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="24" lineNum="90" parent="globals/FitContributor" pc="268436769" symbol="onActivityStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="24" lineNum="91" parent="globals/FitContributor" pc="268436773" symbol="onActivityStart"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="25" lineNum="95" parent="globals/FitContributor" pc="268436784" symbol="onActivityStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="25" lineNum="96" parent="globals/FitContributor" pc="268436788" symbol="onActivityStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="25" lineNum="97" parent="globals/FitContributor" pc="268436798" symbol="onActivityStop"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="26" lineNum="100" parent="globals/FitContributor" pc="268436808" symbol="onTimerLap"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="26" lineNum="101" parent="globals/FitContributor" pc="268436812" symbol="onTimerLap"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="27" lineNum="104" parent="globals/FitContributor" pc="268436826" symbol="onTimerReset"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="27" lineNum="105" parent="globals/FitContributor" pc="268436830" symbol="onTimerReset"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="27" lineNum="106" parent="globals/FitContributor" pc="268436843" symbol="onTimerReset"/>
+        <entry filename="D:\\2022\\workspace\\DailySteps\\source\\FitContributions.mc" id="28" lineNum="10" parent="globals/FitContributor" pc="268436907" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="2" parent="globals/Rez/Drawables" pc="268436901" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="6" parent="globals/Rez/Fonts" pc="268436903" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="8" parent="globals/Rez/JsonData" pc="268436905" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="10" parent="globals/Rez/Layouts" pc="268436904" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="12" parent="globals/Rez/Menus" pc="268436902" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="14" parent="globals/Rez/Strings" pc="268436906" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" parent="globals/Rez" pc="268436877" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" parent="globals/Rez" pc="268436877" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8389849" symbol="units"/>
+        <entry id="25" method="true" symbol="onActivityStop"/>
+        <entry id="8389748" method="true" symbol="onTimerStop"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389747" method="true" symbol="onTimerStart"/>
+        <entry field="true" id="17" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8389749" method="true" symbol="onTimerPause"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry field="true" id="20" symbol="mTimerRunning"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry field="true" id="23" symbol="mStepsLap"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="22" symbol="mStepsSession"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="9" object="true" symbol="DailyStepsView"/>
+        <entry id="15" module="true" symbol="Menus"/>
+        <entry field="true" id="26" symbol="fitContributor"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="18" symbol="mStepsSessionField"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="24" method="true" symbol="onActivityStart"/>
+        <entry id="10" object="true" symbol="DailyStepsApp"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389752" method="true" symbol="onTimerReset"/>
+        <entry field="true" id="19" symbol="mStepsLapField"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="11" symbol="STEPS_SESSION_FIELD_ID"/>
+        <entry id="8390686" method="true" symbol="onNextMultisportLeg"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="21" symbol="mStepsGlobal"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="12" symbol="STEPS_LAP_FIELD_ID"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389780" module="true" object="true" symbol="FitContributor"/>
+        <entry id="8389751" method="true" symbol="onTimerLap"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry field="true" id="13" symbol="_DailyStepsView"/>
+        <entry id="14" module="true" symbol="Layouts"/>
+        <entry id="8389750" method="true" symbol="onTimerResume"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435578" name="state" stackId="2" startPc="268435554"/>
+        <entry arg="true" endPc="268435578" name="app" stackId="1" startPc="268435554"/>
+        <entry arg="true" endPc="268435603" name="state" stackId="2" startPc="268435579"/>
+        <entry arg="true" endPc="268435603" name="app" stackId="1" startPc="268435579"/>
+        <entry arg="true" endPc="268435626" name="info" stackId="1" startPc="268435604"/>
+        <entry arg="true" endPc="268435867" name="state" stackId="1" startPc="268435841"/>
+        <entry arg="true" endPc="268435894" name="state" stackId="1" startPc="268435868"/>
+        <entry arg="true" endPc="268436259" name="dataField" stackId="1" startPc="268435923"/>
+        <entry endPc="268436422" name="info" stackId="2" startPc="268436264"/>
+        <entry arg="true" endPc="268436423" name="app" stackId="1" startPc="268436260"/>
+        <entry arg="true" endPc="268436484" name="app" stackId="1" startPc="268436424"/>
+        <entry endPc="268436755" name="info" stackId="1" startPc="268436500"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/DailyStepsApp" offset="174" parentId="globals" symbolId="DailyStepsApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="253" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="433" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="464" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="495" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/FitContributor" offset="550" parentId="globals" symbolId="FitContributor" type="class"/>
+        <dataEntry label="globals/DailyStepsView" offset="701" parentId="globals" symbolId="DailyStepsView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435553" name="initialize" parent="DailyStepsView" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435578" name="onStart" parent="DailyStepsView" startPc="268435554">
+            <param id="app"/>
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435603" name="onStop" parent="DailyStepsView" startPc="268435579">
+            <param id="app"/>
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435626" name="compute" parent="DailyStepsView" startPc="268435604">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435649" name="onTimerStart" parent="DailyStepsView" startPc="268435627">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435672" name="onTimerStop" parent="DailyStepsView" startPc="268435650">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435695" name="onTimerResume" parent="DailyStepsView" startPc="268435673">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435718" name="onTimerPause" parent="DailyStepsView" startPc="268435696">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435741" name="onTimerLap" parent="DailyStepsView" startPc="268435719">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435764" name="onTimerReset" parent="DailyStepsView" startPc="268435742">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435787" name="onNextMultisportLeg" parent="DailyStepsView" startPc="268435765">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436926" name="&lt;init&gt;" parent="DailyStepsView" startPc="268436908">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435840" name="initialize" parent="DailyStepsApp" startPc="268435788">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435867" name="onStart" parent="DailyStepsApp" startPc="268435841">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435894" name="onStop" parent="DailyStepsApp" startPc="268435868">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435922" name="getInitialView" parent="DailyStepsApp" startPc="268435895">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436876" name="&lt;init&gt;" parent="DailyStepsApp" startPc="268436858">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436259" name="initialize" parent="FitContributor" startPc="268435923">
+            <param id="dataField"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436423" name="onStart" parent="FitContributor" startPc="268436260">
+            <param id="app"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436484" name="onStop" parent="FitContributor" startPc="268436424">
+            <param id="app"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436768" name="compute" parent="FitContributor" startPc="268436485">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436783" name="onActivityStart" parent="FitContributor" startPc="268436769">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436807" name="onActivityStop" parent="FitContributor" startPc="268436784">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436825" name="onTimerLap" parent="FitContributor" startPc="268436808">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436856" name="onTimerReset" parent="FitContributor" startPc="268436826">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436907" name="&lt;init&gt;" parent="FitContributor" startPc="268436907">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436901" name="&lt;init&gt;" parent="Drawables" startPc="268436901">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436903" name="&lt;init&gt;" parent="Fonts" startPc="268436903">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436905" name="&lt;init&gt;" parent="JsonData" startPc="268436905">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436904" name="&lt;init&gt;" parent="Layouts" startPc="268436904">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436902" name="&lt;init&gt;" parent="Menus" startPc="268436902">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436906" name="&lt;init&gt;" parent="Strings" startPc="268436906">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268436900" name="&lt;init&gt;" parent="Rez" startPc="268436877">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
